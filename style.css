@@ -1,11 +1,17 @@
 body{
     background:#cccc;
-
 }
-    text-align:center
+#banner {
+     width: 100%;
+}
+.principal{
+background:#cccccc;
+padding: 30px;
+p{
+    text-align: center;
 }
 em strong{ 
-    color:aquamarine
+    color:aquamarine 
 }
 
 
